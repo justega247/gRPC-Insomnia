@@ -1,0 +1,11 @@
+{
+  "name": "grpc-iss-playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@grpc/proto-loader": "^0.6.4",
+    "axios": "^0.21.1",
+    "grpc": "^1.24.11"
+  }
+}
